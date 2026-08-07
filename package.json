@@ -1,6 +1,6 @@
 {
   "name": "eclink",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A shorten link just for fun and not public.",
   "main": "server.js",
   "scripts": {

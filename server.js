@@ -5,6 +5,8 @@ const links = {
     "tfi6skg": "https://github.com/imearttchcorez",
     "qw1fah8": "https://archive.org/details/windows-me-iso",
     "tr1akf5": "https://example.net",
+    "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
+    "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ" // random
 };
 
 const server = http.createServer((req, res) => {
@@ -19,7 +21,7 @@ const server = http.createServer((req, res) => {
         }
 
         res.writeHead(404);
-        return res.end("404 - Link not found");
+        return res.end("404 - Link not found. Please try again");
     }
 
     res.writeHead(200);
