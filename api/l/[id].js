@@ -5,8 +5,9 @@ const links = {
     "tfi6skg": "https://github.com/imearttchcorez",
     "qw1fah8": "https://archive.org/details/windows-me-iso",
     "tr1akf5" :"https://example.net",
-    "ytmtaec" :"https://www.youtube.com/watch?v=WkFJ4dR_DOY&source_ve_path=MTc4NDI0", // youtube music thinking about earttchcorez
-    "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ" // random
+    "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
+    "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", // random
+    "fja20cm": "https://github.com/dwk03/eclink-web/blob/main/src/videos/video_deeptok.mp4" // prank
 };
 
 module.exports = (req, res) => {

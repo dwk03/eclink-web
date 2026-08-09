@@ -1,0 +1,43 @@
+ @font-face {
+        font-family: Pangolin;
+        src: url('fonts/Pangolin-Regular.ttf');
+    }
+
+    html {
+        font-family: Pangolin, sans-serif;
+        scroll-behavior: smooth;
+        scroll-padding-top: 100px;
+    }
+
+
+    body {
+        background: #06435c;     
+        color: white;
+    }
+
+    .buttons {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 15px;
+    }
+
+    .button {
+        background: #f1f5f9;
+        border: 2px solid #121212;
+        padding: 4px 12px;
+        border-radius: 15px;
+        font-size: 1rem;
+        font-weight: 900;
+    }
+
+    a {
+        color: rgb(18, 136, 233);
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: rgb(238, 208, 11);
+        transition: ease-in;
+        transition-duration: 0.3s;
+    }
