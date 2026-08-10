@@ -7,7 +7,7 @@ const links = {
     "tr1akf5" :"https://example.net",
     "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
     "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", // random
-    "fja20cm": "https://github.com/dwk03/eclink-web/blob/main/src/videos/video_deeptok.mp4" // prank
+    "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6" // amazon music
 };
 
 module.exports = (req, res) => {
