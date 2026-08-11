@@ -10,7 +10,7 @@ const links = {
     "uca204m": "null",
     "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", // new release
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw" // my spotify artist
-   "ecl-web": "https://ecl-web.netlify.app" // static-page of eclinkweb.vercel.app
+   "ecl.web": "https://ecl-web.netlify.app" // static-page of eclinkweb.vercel.app
 };
 
 module.exports = (req, res) => {
