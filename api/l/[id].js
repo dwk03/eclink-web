@@ -6,10 +6,10 @@ const links = {
     "tr1akf5" :"https://example.net",
     "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
     "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", // random
-    "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6" // amazon music
+    "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6", // amazon music
     "uca204m": "null",
     "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", // new release
-    "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw" // my spotify artist
+    "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", // my spotify artist
    "ecl.web": "https://ecl-web.netlify.app" // static-page of eclinkweb.vercel.app
 };
 
