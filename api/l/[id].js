@@ -9,7 +9,7 @@ const links = {
     "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", // random
     "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6" // amazon music
     "uca204m": "null",
-    "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn" // new release
+    "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", // new release
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw" // my spotify artist
 };
 
