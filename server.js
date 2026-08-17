@@ -7,10 +7,10 @@ const links = {
     "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
     "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ",// random
     "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6",
-    "uca204m": "null",
+    "uca204m": "https://www.youtube.com/watch?v=SJFk-d0mxIo",
     "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn",
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", // my spotify artist
-    "ecl.web": "https://ecl-web.netlify.app" // static-page of eclinkweb.vercel.app
+    "ecl.web": "https://ecl-web.netlify.app" // static-pages of eclinkweb.vercel.app
 };
 
 const server = http.createServer((req, res) => {
@@ -31,7 +31,7 @@ const server = http.createServer((req, res) => {
     res.writeHead(200);
     res.end("Hello!");
 });
-
+// localhost
 server.listen(3000, () => {
     console.log("http://localhost:3000");
 });
