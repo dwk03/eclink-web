@@ -1,18 +1,16 @@
 const http = require("http");
-
+// links
 const links = {
-    "ad92uda": "https://archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108",
-    "tfi6skg": "https://github.com/imearttchcorez",
-    "tr1akf5": "https://example.net",
-    "ytmtaec" :"https://www.youtube.com/embed/WkFJ4dR_DOY", // youtube music thinking about earttchcorez
-    "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ",// random
-    "fja20cm": "https://music.amazon.com/albums/B0HCP6TNK6",
+   "ad92uda": "https://archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108",
+    "ytmtaec" :"https://www.youtube.com/watch?v=WkFJ4dR_DOY", // youtube music thinking about earttchcorez
+    "sp1ca95" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", // random
+    "amznsic1": "https://music.amazon.com/albums/B0HCP6TNK6", // amazon music
     "uca204m": "https://www.youtube.com/watch?v=SJFk-d0mxIo",
-    "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn",
+    "kad29vz": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", 
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", // my spotify artist
-    "ecl.web": "https://ecl-web.netlify.app" // static-pages of eclinkweb.vercel.app
+    "🍎🎵" : "https://music.apple.com/us/song/thinking-about/6802273553"
 };
-
+// server
 const server = http.createServer((req, res) => {
     if (req.url.startsWith("/l/")) {
         const id = req.url.slice(3);
@@ -23,13 +21,13 @@ const server = http.createServer((req, res) => {
             });
             return res.end();
         }
-
+         // link not available
         res.writeHead(404);
         return res.end("404 - Link not found. Please try again");
     }
 
     res.writeHead(200);
-    res.end("Hello!");
+    res.end("👁👄👁");
 });
 // localhost
 server.listen(3000, () => {
