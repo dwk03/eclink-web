@@ -9,7 +9,8 @@ const links = {
     "icptp.yt": "https://www.youtube.com/watch?v=SJFk-d0mxIo",
     "icptp.spotify": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", 
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
-    "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553"
+    "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
+    "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ"
 
 };
 // server
