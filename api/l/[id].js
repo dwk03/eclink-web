@@ -14,7 +14,7 @@ const links = {
     "icptp.spotify": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", 
     // uhm
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
-   
+   "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ"
 
 };
 
