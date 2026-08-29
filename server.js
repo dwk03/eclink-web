@@ -11,7 +11,7 @@ const links = {
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
     "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
     "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ",
-   "hellohello":"https://www.google.com/search?sa=X&sca_esv=9903076582d09d59&hl=en&sxsrf=APpeQnspiH1VW81YF2rd3nkuwAgW56QlOw:1788015196379&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp2eZropjFKX5yTo8xG7PVx_Ygld5qquQSBgve2IY4xgktHHPHIvfFrzpT3vWjeUSTHq9byAXChwXqDBit7prTEgBRTHFGQ6jRmk82xFcPxFD_1gm6jg8nSeYytdzzgjndHFm2Dcg&q=scary+video+for+meme&ved=2ahUKEwi994fVi8aWAxXpsVYBHSnfMkQQtKgLegQIFBAB&biw=1515&bih=675&dpr=0.9",
+   "cprcoban":"https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
 
 };
 // server
