@@ -11,7 +11,8 @@ const links = {
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
     "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
     "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ",
-   "cprcoban":"https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+    "behind-eclink" : "https://github.com/dwk03/eclink-web",
+    "hello: "👁👄👁💅🥰🤑🔥💜✨🐥🍀☘🧜‍♀️🧜‍♂️👸🤸‍♂️🚴‍♀️🏊‍♀️✌👁👄👁💅🥰😍😘🔥🔥🔥"
 
 };
 // server
