@@ -15,7 +15,8 @@ const links = {
     // uhm
     "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
    "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ", //pls don't open
-     "cprcoban":"https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+     "behind-eclink" : "https://github.com/dwk03/eclink-web",
+    "hello: "👁👄👁💅🥰🤑🔥💜✨🐥🍀☘🧜‍♀️🧜‍♂️👸🤸‍♂️🚴‍♀️🏊‍♀️✌👁👄👁💅🥰😍😘🔥🔥🔥"
 };
 
 module.exports = (req, res) => {
