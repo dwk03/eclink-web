@@ -1,4 +1,1 @@
-<!-- null.md --->
-# eclinkweb
-Source code of eclinkweb.vercel.app <br>
-similar bit.ly but not public.
+pls don't mind it:))
