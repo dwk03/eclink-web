@@ -12,7 +12,7 @@ const links = {
     "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
     "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ",
     "behind-eclink" : "https://github.com/dwk03/eclink-web",
-    "hello: "👁👄👁💅🥰🤑🔥💜✨🐥🍀☘🧜‍♀️🧜‍♂️👸🤸‍♂️🚴‍♀️🏊‍♀️✌👁👄👁💅🥰😍😘🔥🔥🔥"
+    
 
 };
 // server
