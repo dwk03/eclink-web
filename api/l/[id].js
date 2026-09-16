@@ -8,7 +8,7 @@ const links = {
     
     "ta.spotify" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", 
     "amznsic1": "https://music.amazon.com/albums/B0HCP6TNK6", 
-    "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553"
+    "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
     // i can't play the piano on streamming musics
     "icptp.yt": "https://www.youtube.com/watch?v=SJFk-d0mxIo",
     "icptp.spotify": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", 
