@@ -4,19 +4,16 @@ const links = {
    
   "ad92uda": "https://archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108",
 
-    "ytmtaec" :"https://www.youtube.com/watch?v=WkFJ4dR_DOY", 
+    "ytmtaec":"https://www.youtube.com/watch?v=WkFJ4dR_DOY", 
     
-    "ta.spotify" :"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", 
+    "ta.spotify":"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", 
     "amznsic1": "https://music.amazon.com/albums/B0HCP6TNK6", 
-    "applemusic" : "https://music.apple.com/us/song/thinking-about/6802273553",
-    // i can't play the piano on streaming musics
+    "applemusic": "https://music.apple.com/us/song/thinking-about/6802273553",
     "icptp.yt": "https://www.youtube.com/watch?v=SJFk-d0mxIo",
     "icptp.spotify": "https://open.spotify.com/album/23lsZhoiLqnBC6SLlRkJPn", 
-    // uhm
-    "ec.spotify.artist" : "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
+    "ec.spotify.artist": "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
    "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ", //pls don't open
-     "behind-eclink" : "https://github.com/dwk03/eclink-web",
-    
+     "behind-eclink": "https://github.com/dwk03/eclink-web"    
 };
 
 module.exports = (req, res) => {
@@ -25,7 +22,9 @@ module.exports = (req, res) => {
     const url = links[id];
 
     if (!url) {
-        return res.status(404).send("404 - Link not found. Please try again");
+        return res.status(404).send(
+            "404 - Link not found. Please try others."
+        );
     }
 
     res.redirect(302, url);
