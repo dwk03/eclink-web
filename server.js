@@ -11,7 +11,7 @@ const links = {
     "ec.spotify.artist": "https://open.spotify.com/artist/7MbsIqyRcRoDsF87UVswrw", 
     "applemusic": "https://music.apple.com/us/song/thinking-about/6802273553",
     "relaxing.for.you": "https://www.youtube.com/watch?v=is8UDe2PhKQ",
-    "behind-eclink": "https://github.com/dwk03/eclink-web",
+    "behind.eclink": "https://github.com/dwk03/eclink-web",
     
 
 };
@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
             });
             return res.end();
         }
-         // link not available
+         // link not available error
         res.writeHead(404);
         return res.end("404 - Link not found. Please try again");
     }
