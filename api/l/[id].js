@@ -2,10 +2,8 @@ const links = {
     // random link
     // not generate by ai, bot.
    
-  "ad92uda": "https://archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108",
-
+      "ad92uda": "https://archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108",
     "ytmtaec":"https://www.youtube.com/watch?v=WkFJ4dR_DOY", 
-    
     "ta.spotify":"https://open.spotify.com/track/13ki1jkJsRkDzNep4aN0NZ", 
     "amznsic1": "https://music.amazon.com/albums/B0HCP6TNK6", 
     "applemusic": "https://music.apple.com/us/song/thinking-about/6802273553",
