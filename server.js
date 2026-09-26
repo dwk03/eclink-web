@@ -27,7 +27,7 @@ const server = http.createServer((req, res) => {
     }
 
     res.writeHead(200);
-    res.end("👁👄👁");
+    res.end(":)");
 });
 // localhost
 server.listen(3000, () => {
